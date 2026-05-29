@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartcave",
+        "uuid": 30626320,
+        "checksum": "f7lmr3"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
